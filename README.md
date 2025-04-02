@@ -1,34 +1,41 @@
-# 👋 Hi, I’m @Fredeys
+# Projects, Interests & Learning Journey
 
-👨‍🎓 **About Me:**  
-Data Science student at FH Graubünden with a strong interest in data-driven solutions. The focus lies on software development, machine learning, deep learning, and cloud computing, with a passion for creating solutions that make complex data accessible and actionable. Enthusiastic about automating the entire data science process to maximize efficiency and scalability.
+I’m Frederic Kurbel, a student of Computational and Data Science at the University of Applied Sciences of the Grisons. I focus on practical applications of computer science with an interest in secure systems, automation, and data workflows.
 
-🔍 **I'm interested in:**  
-- **Data Science** (main focus)
-- Machine Learning & Deep Learning  
-- Cloud Computing with **AWS** and **Azure**  
-- Data Pipelines and **SQL** for data processing  
-- Visualizations with **Power BI** and **Tableau**  
-- Interactive Learning Platforms supported by AI
-- Full automation of the data science workflow
+## Areas of Interest
 
-🌱 **Currently learning:**  
-- Advanced **SQL** and data processing techniques  
-- Cloud-based data solutions  
-- Techniques for creating seamless, scalable data pipelines
+- Computer/Data Science & Software Engineering  
+- SQL & Cloud Storage   
+- Cloud Technologies (e.g. AWS)  
+- Automation & Scripting (Python)  
+- Secure Systems (e.g. GrapheneOS)  
+- Power BI & Data Visualization  
+- Blockchain Technologies  
 
-💼 **Looking to collaborate on:**  
-Projects involving data analysis, machine learning models, cloud computing, **Raspberry Pi** applications, and automated data science workflows. Collaboration on projects that advance data science and automation is especially welcome.
+## Projects
 
-📫 **How to reach me:**  
-- **GitHub:** [Fredeys](https://github.com/Fredeys)  
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-c-kurbel-81987a311/)  
-- **Email:** frederic.kurbel@stud.fhgr.ch
+I learn through building. My recent work includes:
 
-⚡ **Fun fact:** Constantly exploring how to make data work smarter, whether through automation, cloud setups, or interactive learning tools.
+- Setting up a private cloud using Raspberry Pi with SQL integration and automated data handling  
+- Technical documentation of secure system setups (e.g. Privacy Tools)  
+- Data scraping pipelines and structured data analysis  
+- Working with Excel for exploratory data tasks and reports  
+- Writing Markdown and LaTeX documentation for reproducibility and clarity  
 
-<!---
-Fredeys/Fredeys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
 
+- **Languages**: Python, Markdown, LaTeX, SQL  
+- **Tools**: Git, GitHub, Linux, VS Code, Excel  
+- **Focus**: Data collection, process automation, hardware components  
+
+## Currently Learning
+
+- Data processing foundations  
+- AWS workflows and infrastructure  
+- Visualization with Power BI  
+- Web scraping best practices  
+- Secure and decentralized technologies  
+
+## Get in Touch
+
+You can find more about my work here on GitHub. For questions or collaboration ideas, feel free to reach out via the contact information provided in my repositories.
