@@ -11,16 +11,7 @@ I’m Frederic Kurbel, a student of Computational and Data Science at the Univer
 - Secure Systems (e.g. GrapheneOS)  
 - Power BI & Data Visualization  
 - Decentralized Systems (e.g. Blockchain Technologies)  
-
-## Projects
-
-I learn through building. My recent work includes:
-
-- Setting up a private cloud using Raspberry Pi with SQL integration and automated data handling  
-- Technical documentation of secure system setups (e.g. Privacy Tools)  
-- Data scraping pipelines and structured data analysis  
-- Working with Excel for exploratory data tasks and reports  
-- Writing Markdown and LaTeX documentation for reproducibility and clarity  
+ 
 
 ## Skills
 
