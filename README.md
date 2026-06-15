@@ -4,13 +4,13 @@ I’m Frederic Kurbel, a student of Computational and Data Science at the Univer
 
 ## Areas of Interest
 
-- Computer/Data Science & Software Engineering  
-- SQL & Cloud Storage   
+- Data Science  
+- SQL
 - Cloud Technologies (e.g. AWS)  
-- Automation & Scripting (Python)  
+- Automation (Python)  
 - Secure Systems (e.g. GrapheneOS)  
 - Power BI & Data Visualization  
-- Blockchain Technologies  
+- Decentralized Systems (e.g. Blockchain Technologies)  
 
 ## Projects
 
@@ -30,10 +30,10 @@ I learn through building. My recent work includes:
 
 ## Currently Learning
 
-- Data processing foundations  
+- Data processing
+- Machine Learning, Deep Learning, Reinforcement Learning  
 - AWS workflows and infrastructure  
 - Visualization with Power BI  
-- Web scraping best practices  
 - Secure and decentralized technologies  
 
 ## Get in Touch
